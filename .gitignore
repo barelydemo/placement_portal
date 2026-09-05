@@ -10,4 +10,3 @@ instance/
 celerybeat-schedule*
 var/
 scripts/
-docs/
