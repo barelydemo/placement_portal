@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.sqlite3
+instance/
+.celerybeat-schedule
+celerybeat-schedule*
+var/
+scripts/
+docs/

@@ -1,0 +1,10 @@
+/* Project-specific overrides layered on top of Bootstrap.
+   Bootstrap remains the only CSS framework — nothing else is added here. */
+
+body {
+  min-height: 100vh;
+}
+
+.badge {
+  margin: 0.15rem;
+}
